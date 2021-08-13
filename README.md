@@ -1,6 +1,6 @@
 # Happy - Next Level Week 3
 
-### Projeto executado no Bootcamp NLW-3 da RocketSeat
+### Projeto executado no bootcamp NLW-3 da Rocketseat
 
 ##### Professor: Mayk Brito
 <br>
